@@ -134,12 +134,71 @@
 
 ![DSC07258-600x450](https://github.com/user-attachments/assets/731919d2-28bc-454e-a6df-486122d986aa)
 
+在另一个电机上，将棕色电缆设置在电机的正极侧。（红点）
 
+![DSC07257-600x450](https://github.com/user-attachments/assets/c11faba2-029e-4322-b4b4-b6da6b34ac63)
 
+确保已将彩色电缆与电机极性反转。这样，一个电机会朝一个方向旋转，另一个电机也会朝另一个方向旋转。
 
+<h2>步骤4：</h2>
 
+缺失图片：将BotCapLeftV1.stl和BotCapRightV1.stl在平面上组装在一起。如果打印 ABS，请使用丙酮；如果打印 PLA，请使用环氧树脂。
 
+![DSC06889-600x450](https://github.com/user-attachments/assets/1029c90b-c566-4374-a5af-1910fc5e68bb)
 
+将电位器安装在MidPotHolderV1.stl上，并注意与小型金属定位器的位置。将MidPotHolderV1.stl粘贴到 BotCap 上。
+
+![DSC06893-600x450](https://github.com/user-attachments/assets/e1615265-4d72-41aa-8230-383fdd998e8e)
+
+将 BotCap 组件设置在主组件上。
+
+ ![DSC06894-600x450](https://github.com/user-attachments/assets/208d0911-d90d-4cc2-9ca6-053a5cad68c3)
+
+使用 4 毫米螺丝将 BotCap 固定到主组件上。
+
+![DSC06897-600x450](https://github.com/user-attachments/assets/c01a0f41-c6cc-4899-8937-d2084b02d85b)
+
+将TStoLowLeftV1.stl和TStoLowRightV1.stl  安装到主组件。
+
+![image](https://github.com/user-attachments/assets/8cdf2f3f-7e35-412d-848e-a635f4cd753c)
+
+使用夹具压配合将使工作变得轻松。
+
+![image](https://github.com/user-attachments/assets/3ee88546-5bc5-4f97-85e8-6e374f9b152d)
+
+安装 4 毫米螺钉，确保螺钉头完全嵌入部件。否则会限制上腹部和中腹部之间的旋转。
+
+![DSC06902-600x450](https://github.com/user-attachments/assets/912bf96c-e184-4535-9173-d07795903d50)
+
+在侧面也添加螺丝。
+
+<h2>步骤5：</h2>
+
+![DSC06906-600x450](https://github.com/user-attachments/assets/e9d5c22f-411d-480c-9d85-8b637c432075)
+
+在装配平板上添加适量油脂。
+
+![image](https://github.com/user-attachments/assets/e79bda92-7f9f-4856-9cd5-3b9841aeb138)
+
+添加一些 6 毫米滚珠轴承，我使用了 BB 枪球，到目前为止效果很好。
+
+![DSC06909-600x450](https://github.com/user-attachments/assets/5d45881b-9215-46a4-9479-96e1bdbe2ace)
+
+在 TopStomach 的平板上也涂抹油脂。
+
+![image](https://github.com/user-attachments/assets/aeff1d10-b795-49e7-9b52-84762d5c944f)
+
+安装 StomGear 以将 TopStomach 和 MidStomach 组装在一起。
+
+![DSC06912-600x450](https://github.com/user-attachments/assets/04761a9a-3653-464d-a4d5-ecb0dc54c15e)
+
+使用 4 颗 4mm 螺丝将 StomGearV2.stl固定到StoGearAttachV1.stl ，如Top Stomach 教程中所示
+
+![DSC06913-600x450](https://github.com/user-attachments/assets/15b311bc-ba3d-434b-b09b-e2aaf85fc18c)
+
+调整螺栓，确保上腹部和中腹部紧固。但不要拧得太紧，因为我们希望这些部件能够有一定的旋转自由度。
+
+现在是时候运行一些脚本测试来查看是否一切设置好了。
 
 
 
